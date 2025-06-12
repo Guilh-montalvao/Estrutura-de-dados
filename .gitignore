@@ -1,0 +1,29 @@
+# Arquivos compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Pastas de saída
+output/
+bin/
+build/
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários
+*.tmp
+*.temp
+~*
+
+# Arquivos de log
+*.log
+
+# Arquivos compactados (opcional - remova se quiser versionar)
+*.zip
+*.rar
+*.7z 
