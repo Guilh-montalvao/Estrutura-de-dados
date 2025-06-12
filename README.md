@@ -7,19 +7,46 @@ Este repositório contém exercícios e implementações práticas da disciplina
 ```
 ├── AV1
 │   ├── AP1
-│   └── Monitoria
-│       ├── A1
-│       └── A2
-└── AV2
+│   ├── Prova
+│   ├── Prova Guilherme Augusto
+│   └── ap3
+├── AV2
+│   └── Ap1
+└── Monitoria
+    └── A1
+        └── Ex1
 ```
 
 ## Conteúdo
 
 O projeto está organizado em avaliações (AV1 e AV2) e inclui exercícios de monitoria. Cada pasta contém implementações específicas focadas em diferentes conceitos de Estrutura de Dados.
 
+### AV1 - Primeira Avaliação
+
+- **AP1**: Primeira atividade prática
+- **Prova**: Arquivos da prova regular
+- **Prova Guilherme Augusto**: Implementação específica da prova
+  - Manipulação de arquivos CSV (notas.csv)
+  - Estruturas e funções utilitárias
+- **ap3**: Terceira atividade prática
+  - Sistema de gestão com arquivos CSV (clientes.csv, emprestimos.csv)
+  - Implementação de estruturas de dados para gerenciamento
+
+### AV2 - Segunda Avaliação
+
+- **Ap1**: Lista Dinâmica Encadeada Dupla
+  - Implementação completa de lista duplamente encadeada
+  - Operações de inserção, remoção e manipulação
+
+### Monitoria
+
+Exercícios práticos desenvolvidos durante as sessões de monitoria:
+
+- **A1/Ex1**: Exercícios básicos com ponteiros e funções
+
 ### Exemplos de Implementações
 
-#### Cálculo de Média (AV1/Monitoria/A1/Ex1/Q5.c)
+#### Cálculo de Média (Monitoria/A1/Ex1/Q5.c)
 
 ```c
 void media(float n1, float n2, float *resultado) {
